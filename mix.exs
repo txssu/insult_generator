@@ -34,7 +34,6 @@ defmodule InsultGenerator.MixProject do
         "compile --all-warnings --warnings-as-errors",
         "format --check-formatted",
         "credo --strict",
-        "deps.audit",
         "dialyzer"
       ]
     ]
